@@ -79,5 +79,15 @@
     },
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "222",
+    "description": "22222",
+    "fieldId": "222",
+    "modelId": "aaa",
+    "componentId": "media",
+    "options": {},
+    "validations": {},
+    "fieldType": "media"
   }
 ]
